@@ -1,4 +1,4 @@
-*Developer at <a href="https://OnyxAPI.online/">OnyxAPI</a> and Founder of <a href="https://aurora-service.xyz/">Aurora</a> - England*
+### *Developer at <a href="https://OnyxAPI.online/">OnyxAPI</a> and Founder of <a href="https://aurora-service.xyz/">Aurora</a> - England*
 
 ### Languages and Software 
 <p>
