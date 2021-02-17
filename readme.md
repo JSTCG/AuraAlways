@@ -6,7 +6,7 @@
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-007BFC?style=flat-square&logo=DigitalOcean&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-750098?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-8006c7?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C_++-8006c7?style=flat-square&logo=c-plusplus&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-++-214cce?style=flat-square&logo=c&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
