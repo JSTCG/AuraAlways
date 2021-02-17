@@ -3,7 +3,7 @@
 ### Languages and Software 
 <p>
   <img alt="OVH" src="https://img.shields.io/badge/-OVH-123F6D?style=flat-square&logo=ovh&logoColor=white" />
-  <img alt="Vultr" src="https://img.shields.io/badge/-Vultr-007BFC?style=flat-square&logo=Vultr&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-007BFC?style=flat-square&logo=DigitalOcean&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-750098?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-8006c7?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C_++-8006c7?style=flat-square&logo=c-plusplus&logoColor=white" />
