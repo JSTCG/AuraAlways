@@ -13,7 +13,7 @@
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-cf9006?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-d3d3d3 ?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-d3d3d3?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Protonmail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white" />
 </p>
