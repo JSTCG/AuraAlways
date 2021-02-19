@@ -16,6 +16,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-d3d3d3?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-1E90FF?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Protonmail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=ProtonMail&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-6e5494?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AuraAlways.AuraAlways)
