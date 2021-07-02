@@ -1,5 +1,6 @@
 ### ✨ Developer | England, UK | Kyle ✨
-### Owner at <a href="https://OnyxAPI.online/">OnyxAPI</a> and Founder of <a href="https://aurora-service.xyz/">Aurora</a> 
+### Ex-Blackhat and Founder of many revolutionary cyber attacks.
+
 
 ### Languages and Software 
 <p>
